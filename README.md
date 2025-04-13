@@ -4,4 +4,5 @@
 a5BJBcF585fLSOZl←YAJU&Uの動画IDです。.envにBOTトークンと一緒に貼って下さい
 後最後に申し訳ないのですがテストしていないので動くかは分かりません！
 エラー吐いた時は自分で修正して下さい！
+
 #pip install google-api-python-client discord.py
